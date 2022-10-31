@@ -1,6 +1,6 @@
 # Proof Of Impact
 
-#Issues and challenges: 
+#### Issues and challenges: 
 
 We tried to deploy our NFT contract but we figure there is some issue with SmartPy - as we tested our code and a template from the platform and we were *not* able to deploy. We selected the `GHOSTNET` and funded our wallet with faucet but we still had issues. Please look wallet below:
 
